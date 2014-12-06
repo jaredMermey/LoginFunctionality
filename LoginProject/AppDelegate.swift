@@ -8,6 +8,9 @@
 
 import UIKit
 
+let kUserNameKey = "UserNameKey"
+let kPasswordKey = "PasswordKey"
+
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
